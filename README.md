@@ -9,7 +9,7 @@ Developer based in Springfield, MO. By day I develop software for the City of Sp
 
 ### Open Source
 
-Focused pieces pulled out of larger projects I've built, each with a live demo.
+Focused pieces pulled out of larger projects I've built.
 
 - **[react-financial-calculators](https://github.com/mbolingdev/react-financial-calculators)**: Mortgage amortization and closing-cost calculators. [Live Demo](https://react-financial-calculators.vercel.app)
 - **[service-area-map](https://github.com/mbolingdev/service-area-map)**: Interactive service-area map built with Leaflet. [Live Demo](https://service-area-map-nu.vercel.app)
