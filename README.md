@@ -9,10 +9,12 @@ Developer based in Springfield, MO. By day I develop software for the City of Sp
 
 ### Open Source
 
-- **react-financial-calculators**: Mortgage amortization and closing-cost calculators. [Live Demo](https://react-financial-calculators.vercel.app)
-- **service-area-map**: Interactive service-area map built with Leaflet. [Live Demo](https://service-area-map.vercel.app)
-- **nextjs-lead-capture**: Lead capture form with Cloudflare Turnstile, honeypot protection, and Resend integration. [Live Demo](https://nextjs-lead-capture.vercel.app)
-- **n8n-payment-alerts-demo**: Local n8n workflow that parses payment emails and posts alerts.
+Focused pieces pulled out of larger projects I've built, each with a live demo.
+
+- **[react-financial-calculators](https://github.com/mbolingdev/react-financial-calculators)**: Mortgage amortization and closing-cost calculators. [Live Demo](https://react-financial-calculators.vercel.app)
+- **[service-area-map](https://github.com/mbolingdev/service-area-map)**: Interactive service-area map built with Leaflet. [Live Demo](https://service-area-map-nu.vercel.app)
+- **[nextjs-lead-capture](https://github.com/mbolingdev/nextjs-lead-capture)**: Lead capture form with Cloudflare Turnstile, honeypot protection, and Resend integration. [Live Demo](https://nextjs-lead-capture.vercel.app)
+- **[n8n-payment-alerts-demo](https://github.com/mbolingdev/n8n-payment-alerts-demo)**: Local n8n workflow that parses payment emails and posts alerts.
 
 ### Tech
 
